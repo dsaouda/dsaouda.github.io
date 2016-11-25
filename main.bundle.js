@@ -48621,7 +48621,7 @@ exports.DEFAULT_STYLES = "\n.select2-container {\n  box-sizing: border-box;\n  d
 var Env = (function () {
     function Env() {
     }
-    Env.URL_API = 'http://fiap-personal-finances-diegosaouda.c9users.io/api/v1';
+    Env.URL_API = 'https://fiap-personal-finances-diegosaouda.c9users.io/api/v1';
     return Env;
 }());
 
